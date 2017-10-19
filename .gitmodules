@@ -1,0 +1,9 @@
+[submodule "django-tagging-ng"]
+	path = django-tagging-ng
+	url = https://github.com/weijia/django-tagging-ng.git
+[submodule "django-auto-filter"]
+	path = django-auto-filter
+	url = https://github.com/weijia/django-auto-filter.git
+[submodule "tagging-app"]
+	path = tagging-app
+	url = https://github.com/weijia/tagging-app.git
